@@ -1,4 +1,5 @@
 #Load data
+#Maximum number of rows
 MAX_ROWs = 10000
 
 #Load Train data
